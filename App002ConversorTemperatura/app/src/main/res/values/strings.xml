@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversor Temperatura</string>
+    <string name="btn_fahrenheit_to_kelvin">Fahrenheit para Kelvin</string>
+    <string name="btn_celsius_to_kelvin">Celsius para Kelvin</string>
+    <string name="hint_edit_text">Temperatura</string>
+    <string name="btn_to_celsius">Fahrenheit para Celsius</string>
+    <string name="btn_to_fahrenheit">Celsius para Fahrenheit</string>
+    <string name="invalid_temp_message">Erro</string>
+</resources>

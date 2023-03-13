@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplicativo Conversorde Moeda</string>
+    <string name="informe_um_valor">Informe um valor</string>
+    <string name="converter_para_dolar">Converter para Dolar</string>
+    <string name="converter_para_real">Converter para Real</string>
+    <string name="valor_convertido">Valor convertido</string>
+</resources>
